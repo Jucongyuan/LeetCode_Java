@@ -7,7 +7,7 @@
 |9|[Palindrome Number][0009]|
 |14|[Longest Common Prefix][0014]|
 |20|[Valid Parentheses][0020]|
-|21|[Merge Two Sorted Lists][0020]|
+|21|[Merge Two Sorted Lists][0021]|
 |26|[Remove Duplicates from Sorted Array][0026]|
 |27|[Remove Element][0027]|
 |28|[Implement strStr()][0028]|
