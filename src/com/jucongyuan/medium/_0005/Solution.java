@@ -1,4 +1,4 @@
-package com.jucongyuan.medium._005;
+package com.jucongyuan.medium._0005;
 
 class Solution {
     public String longestPalindrome(String s) {

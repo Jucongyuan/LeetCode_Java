@@ -1,4 +1,4 @@
-package com.jucongyuan.medium._002;
+package com.jucongyuan.medium._0002;
 
 import com.jucongyuan.data_structure.ListNode;
 

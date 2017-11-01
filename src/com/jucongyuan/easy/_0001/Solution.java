@@ -1,4 +1,4 @@
-package com.jucongyuan.easy._001;
+package com.jucongyuan.easy._0001;
 
 import java.util.HashMap;
 import java.util.Map;
