@@ -1,22 +1,21 @@
 ## Easy
 
-|NO.|Title|
+|LeetCode NO.|Title|
 |:------------- |:------------- |
 |1|[Two Sum][001]|
 
 
 ## Medium
 
-|NO.|Title|
+|LeetCode NO.|Title|
 |:------------- |:------------- |
 |2|[Add Two Numbers][002]|
 |3|[Longest Substring Without Repeating Characters ][003]|
 
 
-
 ## Hard
 
-|NO.|Title|
+|LeetCode NO.|Title|
 |:------------- |:------------- |
 |4|[Median of Two Sorted Arrays ][004]|
 
