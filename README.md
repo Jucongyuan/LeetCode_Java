@@ -31,4 +31,4 @@
 [002]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_002/2.%20Add%20Two%20Numbers.md
 [003]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_003/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md
 [004]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/hard/_004/4.%20Median%20of%20Two%20Sorted%20Arrays.md
-[004]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_005/5.%20Longest%20Palindromic%20Substring.md
+[005]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_005/5.%20Longest%20Palindromic%20Substring.md
