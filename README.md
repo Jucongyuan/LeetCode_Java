@@ -38,6 +38,6 @@
 [0005]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_0005/5.%20Longest%20Palindromic%20Substring.md
 [0006]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_0006/6.%20ZigZag%20Conversion.md
 [0007]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/easy/_0007/7.%20Reverse%20Integer.md
-[0008]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/easy/_0008/8.%20String%20to%20Integer%20(atoi).md
+[0008]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_0008/8.%20String%20to%20Integer%20(atoi).md
 [0009]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/easy/_0009/9.%20Palindrome%20Number.md
-[0011]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/easy/_0011/11.%20Container%20With%20Most%20Water.md
+[0011]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_0011/11.%20Container%20With%20Most%20Water.md
