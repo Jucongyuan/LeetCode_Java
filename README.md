@@ -1,5 +1,6 @@
 
-## Difficulty
+## Difficulty-难度分类（简单、中等、困难）
+#### 难度是根据提交的代码通过率来得出的
 
 ### Easy
 |LeetCode NO.|Title|
@@ -48,7 +49,9 @@
 
 
 
-## Tags
+## Tags-数据结构分类
+
+#### 数据结构是指算法中处理的数据和借助其他数据结构完成算法用到的数据结构
 
 ### Array
 |LeetCode NO.|Title|
