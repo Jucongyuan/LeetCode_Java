@@ -1,50 +1,204 @@
-## Easy
 
-|LeetCode NO.|Title|Topics|
-|:------------- |:------------- |:------------- |
-|1|[Two Sum][0001]|Array|
-|7|[Reverse Integer][0007]|Array|
-|9|[Palindrome Number][0009]|Array|
-|14|[Longest Common Prefix][0014]|Array|
-|20|[Valid Parentheses][0020]|Array|
-|21|[Merge Two Sorted Lists][0021]|Array|
-|26|[Remove Duplicates from Sorted Array][0026]|Array|
-|27|[Remove Element][0027]|Array|
-|28|[Implement strStr()][0028]|Array|
-|35|[Search Insert Position][0035]|Array|
+## Difficulty
 
-
-## Medium
-
-|LeetCode NO.|Title|Topics|
-|:------------- |:------------- |:------------- |
-|2|[Add Two Numbers][0002]|Array|
-|3|[Longest Substring Without Repeating Characters][0003]|Array|
-|5|[Longest Palindromic Substring][0005]|Array|
-|6|[ZigZag Conversion][0006]|Array|
-|8|[String to Integer (atoi)][0008]|Array|
-|11|[Container With Most Water][0011]|Array|
-|12|[Integer to Roman][0012]|Array|
-|13|[Roman to Integer][0013]|Array|
-|15|[3Sum][0015]|Array|
-|16|[3Sum Closest][0016]|Array|
-|17|[Letter Combinations of a Phone Number][0017]|Array|
-|18|[4Sum][0018]|Array|
-|19|[Remove Nth Node From End of List][0019]|Array|
-|22|[Generate Parentheses][0022]|Array|
-|24|[Swap Nodes in Pairs][0024]|Array|
-|31|[Next Permutation][0031]|Array|
-|33|[Search in Rotated Sorted Array][0033]|Array|
-|34|[Search for a Range][0034]|Array|
+### Easy
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|1|[Two Sum][0001]|
+|7|[Reverse Integer][0007]|
+|9|[Palindrome Number][0009]|
+|13|[Roman to Integer][0013]|
+|14|[Longest Common Prefix][0014]|
+|20|[Valid Parentheses][0020]|
+|21|[Merge Two Sorted Lists][0021]|
+|26|[Remove Duplicates from Sorted Array][0026]|
+|27|[Remove Element][0027]|
+|28|[Implement strStr()][0028]|
+|35|[Search Insert Position][0035]|
 
 
-## Hard
+### Medium
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|2|[Add Two Numbers][0002]|
+|3|[Longest Substring Without Repeating Characters][0003]|
+|5|[Longest Palindromic Substring][0005]|
+|6|[ZigZag Conversion][0006]|
+|8|[String to Integer (atoi)][0008]|
+|11|[Container With Most Water][0011]|
+|12|[Integer to Roman][0012]|
+|15|[3Sum][0015]|
+|16|[3Sum Closest][0016]|
+|17|[Letter Combinations of a Phone Number][0017]|
+|18|[4Sum][0018]|
+|19|[Remove Nth Node From End of List][0019]|
+|22|[Generate Parentheses][0022]|
+|24|[Swap Nodes in Pairs][0024]|
+|31|[Next Permutation][0031]|
+|33|[Search in Rotated Sorted Array][0033]|
+|34|[Search for a Range][0034]|
 
-|LeetCode NO.|Title|Topics|
-|:------------- |:------------- |:------------- |
-|4|[Median of Two Sorted Arrays][0004]|Array|
-|23|[Merge k Sorted Lists][0023]|Array|
-|25|[Reverse Nodes in k-Group][0025]|Array|
+
+### Hard
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|4|[Median of Two Sorted Arrays][0004]|
+|23|[Merge k Sorted Lists][0023]|
+|25|[Reverse Nodes in k-Group][0025]|
+
+
+
+## Tags
+
+### Array
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|1|[Two Sum][0001]|
+|4|[Median of Two Sorted Arrays][0004]|
+|11|[Container With Most Water][0011]|
+|15|[3Sum][0015]|
+|16|[3Sum Closest][0016]|
+|18|[4Sum][0018]|
+|26|[Remove Duplicates from Sorted Array][0026]|
+|27|[Remove Element][0027]|
+|31|[Next Permutation][0031]|
+|33|[Search in Rotated Sorted Array][0033]|
+|34|[Search for a Range][0034]|
+|35|[Search Insert Position][0035]|
+
+### Dynamic Programming
+
+### String
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|3|[Longest Substring Without Repeating Characters][0003]|
+|5|[Longest Palindromic Substring][0005]|
+|6|[ZigZag Conversion][0006]|
+|8|[String to Integer (atoi)][0008]|
+|12|[Integer to Roman][0012]|
+|13|[Roman to Integer][0013]|
+|14|[Longest Common Prefix][0014]|
+|17|[Letter Combinations of a Phone Number][0017]|
+|20|[Valid Parentheses][0020]|
+|22|[Generate Parentheses][0022]|
+|28|[Implement strStr()][0028]|
+
+### Math
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|2|[Add Two Numbers][0002]|
+|7|[Reverse Integer][0007]|
+|8|[String to Integer (atoi)][0008]|
+|9|[Palindrome Number][0009]|
+|12|[Integer to Roman][0012]|
+|13|[Roman to Integer][0013]|
+
+### Tree
+
+### HashTable
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|1|[Two Sum][0001]|
+|3|[Longest Substring Without Repeating Characters][0003]|
+|18|[4Sum][0018]|
+
+
+### Depth-first Search
+
+### Binary Search
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|4|[Median of Two Sorted Arrays][0004]|
+|33|[Search in Rotated Sorted Array][0033]|
+|34|[Search for a Range][0034]|
+|35|[Search Insert Position][0035]|
+
+### Two Pointers
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|3|[Longest Substring Without Repeating Characters][0003]|
+|11|[Container With Most Water][0011]|
+|15|[3Sum][0015]|
+|16|[3Sum Closest][0016]|
+|18|[4Sum][0018]|
+|19|[Remove Nth Node From End of List][0019]|
+|26|[Remove Duplicates from Sorted Array][0026]|
+|27|[Remove Element][0027]|
+|28|[Implement strStr()][0028]|
+
+### Backtracking
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|17|[Letter Combinations of a Phone Number][0017]|
+|22|[Generate Parentheses][0022]|
+
+### Design
+
+### Breadth-first Search
+
+### Stack
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|20|[Valid Parentheses][0020]|
+
+### Bit Manipulation
+
+### Linked List
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|2|[Add Two Numbers][0002]|
+|19|[Remove Nth Node From End of List][0019]|
+|21|[Merge Two Sorted Lists][0021]|
+|23|[Merge k Sorted Lists][0023]|
+|24|[Swap Nodes in Pairs][0024]|
+|25|[Reverse Nodes in k-Group][0025]|
+
+### Greedy
+
+### Heap
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|23|[Merge k Sorted Lists][0023]|
+
+### Sort
+
+### Divide and Conquer
+|LeetCode NO.|Title|
+|:------------- |:------------- |
+|4|[Median of Two Sorted Arrays][0004]|
+|23|[Merge k Sorted Lists][0023]|
+
+### Graph
+
+### Trie
+
+### Binary Search Tree
+
+### Union Find
+
+### Segment Tree
+
+### Recursion
+
+### Binary Indexed Tree
+
+### Queue
+
+### Topological Sort
+
+### Minimax
+
+### Brainteaser
+
+### Reservoir Sampling
+
+### Geometry
+
+### Map
+
+### Memoization
+
+
 
 
 
@@ -63,7 +217,7 @@
 [0009]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/easy/_0009/9.%20Palindrome%20Number.md
 [0011]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_0011/11.%20Container%20With%20Most%20Water.md
 [0012]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_0012/12.%20Integer%20to%20Roman.md
-[0013]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_0013/13.%20Roman%20to%20Integer.md
+[0013]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/easy/_0013/13.%20Roman%20to%20Integer.md
 [0014]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/easy/_0014/14.%20Longest%20Common%20Prefix.md
 [0015]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_0015/15.%203Sum.md
 [0016]: https://github.com/Jucongyuan/LeetCode_Java/blob/master/src/com/jucongyuan/medium/_0016/16.%203Sum%20Closest.md
