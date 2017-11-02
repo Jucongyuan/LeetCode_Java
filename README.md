@@ -1,6 +1,6 @@
 ## Easy
 
-|LeetCode NO.|Title||Topics|
+|LeetCode NO.|Title|Topics|
 |:------------- |:------------- |:------------- |
 |1|[Two Sum][0001]|Array|
 |7|[Reverse Integer][0007]|Array|
@@ -16,7 +16,7 @@
 
 ## Medium
 
-|LeetCode NO.|Title||Topics|
+|LeetCode NO.|Title|Topics|
 |:------------- |:------------- |:------------- |
 |2|[Add Two Numbers][0002]|Array|
 |3|[Longest Substring Without Repeating Characters][0003]|Array|
